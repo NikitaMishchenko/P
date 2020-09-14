@@ -281,11 +281,11 @@ matrix operator*(const matrix& A, const matrix& B)
     matrix result(A.height, B.width);
 if(A.width == B.height)
 {
-    double buff = 0;
+    double buff = 0.0;
     for(int i = 0; i < B.height; i++)
         for(int j = 0; j < B.width; j++)
         {
-            buff = 0;
+            buff = 0.0;
             for(int k = 0; k < B.height; k++)
                 buff += A.data[i][k] * B.data[k][j];
             result.data[i][j] = buff;
@@ -651,6 +651,22 @@ matrix matrix::matrix_exponential(int index_order)
     }
    std::cout << "matrix not squared 0 returned\n";
     return 0;
+};
+
+void matrix::Fibonachi2x2(int f_number)
+{
+    matrix base(2,2);
+        base.set_data(0,0, 1.0); base.set_data(0,1, 1.0);
+        base.set_data(1,0, 1.0); base.set_data(1,1, 0.0);
+            std::cout << base << std::endl;
+
+    if(f_number == 0)
+        *this = base;
+
+    matrix F(2,2); F = base;
+    for(int i = 1; i < f_number; i++)
+        {F *= base;std::cout << F << std::endl << std::endl;}
+    *this = F;
 };
 
 ///structure

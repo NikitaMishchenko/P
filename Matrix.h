@@ -92,6 +92,7 @@ public:
         matrix m_column_shift(int index_column, double sh);///производная функция
 
     matrix matrix_exponential(int index_order);
+    void Fibonachi2x2(int f_number);
 
 ///structure
     void erase_row(int h);/// - /// удаляет строку в данной матрице /// можно оптимизировать
