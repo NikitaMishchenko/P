@@ -140,8 +140,8 @@ void Main_Loop()
 }
 
 int main()
-{std::cout << std::endl;
-    //Main_Loop();
+{
+    Main_Loop();
     ///********************************************MAIN**************************
    // manager m1;
     //m1.info_load_from_file();
