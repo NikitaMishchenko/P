@@ -1,0 +1,7 @@
+путь к папке с обощенной информацией /	путь к папке с данными для обработки / основа названия имени файла (base_file_name) 
+!!!все файлы в формате ".txt"
+
+START_INSTRUCTIONS
+-	-	amplitude_analisys
+data_summary/		data_for_analisys/		example1
+END_INSTRUCTIONS

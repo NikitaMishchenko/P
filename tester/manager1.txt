@@ -1,0 +1,5 @@
+MANAGER
+commands:	kekW pepega STOP omegaLUL 
+proceded_commands:	kekW pepega STOP
+data_paths: some_data_path
+END_MANAGER d

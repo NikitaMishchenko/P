@@ -1,0 +1,284 @@
+# depslib dependency file v1.0
+1585752604 source:c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\approximation.cpp
+	<iostream>
+	<cmath>
+	"Approximation.h"
+	"matrix.h"
+	<fstream>
+	<cstddef>
+	<utility>
+
+1585746694 c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\approximation.h
+	"matrix.h"
+
+1585742215 c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\matrix.h
+	<iostream>
+
+1578416870 source:c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\fft.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	"matrix.h"
+
+1585745983 source:c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\matrix.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<io.h>
+	"Matrix.h"
+
+1545043738 source:c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\osc.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"matrix.h"
+	"Approximation.h"
+	"osc.h"
+
+1545041398 c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\osc.h
+
+1561531915 source:c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\rot_mx.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"matrix.h"
+	"Approximation.h"
+	"Rot_Mx.h"
+
+1561447941 c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\rot_mx.h
+
+1582106887 source:c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\equation_num.cpp
+	<iostream>
+	<stdlib.h>
+	"time.h"
+	<string>
+	"cmath"
+	"Matrix.h"
+	"Approximation.h"
+	<fstream>
+
+1586181178 source:c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\main.cpp
+	<iostream>
+	<cmath>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"matrix.h"
+	"Approximation.h"
+	"Osc_Class.h"
+	"osc.h"
+	"Rot_Mx.h"
+	"manager.h"
+	"FFT.h"
+	"equation_num.h"
+
+1580715856 c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\osc_class.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	"matrix.h"
+	"Approximation.h"
+
+1586166008 c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\manager.h
+	<iostream>
+	"matrix.h"
+	"Osc_Class.h"
+	"osc.h"
+
+1578408459 c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\fft.h
+
+1576646639 c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\equation_num.h
+
+1583301423 source:c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\osc_class.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"matrix.h"
+	"Approximation.h"
+	"Osc_Class.h"
+
+1586179696 source:c:\users\nimi\desktop\course\7th_stage\prog\coeff_analysis\manager.cpp
+	"manager.h"
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"matrix.h"
+	"Approximation.h"
+	"Osc_Class.h"
+	"osc.h"
+	"Rot_Mx.h"
+	"FFT.h"
+	"equation_num.h"
+
+1599736017 source:c:\base\progs\coeff_analysis\approximation.cpp
+	<iostream>
+	<cmath>
+	"Approximation.h"
+	"matrix.h"
+	<fstream>
+	<cstddef>
+	<utility>
+
+1599160372 c:\base\progs\coeff_analysis\approximation.h
+	"matrix.h"
+
+1600024414 c:\base\progs\coeff_analysis\matrix.h
+	<iostream>
+
+1599199698 source:c:\base\progs\coeff_analysis\fft.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	"matrix.h"
+
+1599811191 source:c:\base\progs\coeff_analysis\manager.cpp
+	"manager.h"
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<queue>
+	<thread>
+	<mutex>
+	<functional>
+	"matrix.h"
+	"Approximation.h"
+	"Osc_Class.h"
+	"osc.h"
+	"Rot_Mx.h"
+	"FFT.h"
+	"equation_num.h"
+
+1600025135 c:\base\progs\coeff_analysis\manager.h
+	<iostream>
+	<queue>
+	"matrix.h"
+	"Osc_Class.h"
+	"osc.h"
+
+1600024616 c:\base\progs\coeff_analysis\osc_class.h
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	"matrix.h"
+	"Approximation.h"
+
+1599150561 c:\base\progs\coeff_analysis\osc.h
+
+1600025394 c:\base\progs\coeff_analysis\rot_mx.h
+	"string.h"
+
+1578408460 c:\base\progs\coeff_analysis\fft.h
+
+1600025229 c:\base\progs\coeff_analysis\equation_num.h
+	<functional>
+
+1599810786 source:c:\base\progs\coeff_analysis\matrix.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<io.h>
+	"Matrix.h"
+
+1599150561 source:c:\base\progs\coeff_analysis\osc.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"matrix.h"
+	"Approximation.h"
+	"osc.h"
+
+1599160909 source:c:\base\progs\coeff_analysis\osc_class.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"matrix.h"
+	"Approximation.h"
+	"Osc_Class.h"
+
+1597400349 source:c:\base\progs\coeff_analysis\rot_mx.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+	"matrix.h"
+	"Approximation.h"
+	"Rot_Mx.h"
+
+1600024115 source:c:\base\progs\coeff_analysis\equation_num.cpp
+	<iostream>
+	<stdlib.h>
+	"time.h"
+	<string>
+	<functional>
+	"cmath"
+	"Matrix.h"
+	"Approximation.h"
+	<fstream>
+	"equation_num.h"
+
+1600024166 source:c:\base\progs\coeff_analysis\main.cpp
+	<iostream>
+	<cmath>
+	<sstream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<string>
+	<vector>
+	<queue>
+	<functional>
+	<thread>
+	<mutex>
+	"time.h"
+	"matrix.h"
+	"Osc_Class.h"
+	"osc.h"
+	"my_timer.h"
+	"manager.h"
+	"FFT.h"
+	"Approximation.h"
+	"equation_num.h"
+	"DifEq_Calc.h"
+
+1600025256 c:\base\progs\coeff_analysis\my_timer.h
+	<thread>
+	<chrono>
+
+1600023982 source:c:\base\progs\coeff_analysis\difeq_calc.cpp
+	<iostream>
+	<cmath>
+	<string>
+	"manager.h"
+	"equation_num.h"
+
+1600025269 c:\base\progs\coeff_analysis\difeq_calc.h
+

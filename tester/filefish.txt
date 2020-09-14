@@ -1,0 +1,5 @@
+MANAGER
+commands:	***enter_commands_instead***
+proceded_commands:	***enter_proceded_commands_instead***
+data_paths:	***enter_data_paths_instead***
+END_MANAGER

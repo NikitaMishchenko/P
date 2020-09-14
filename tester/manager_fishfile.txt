@@ -1,0 +1,3 @@
+MANAGER
+commands:	***enter_commands_instead***
+proceded_commands:	***enter_proceded_instead***
