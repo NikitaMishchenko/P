@@ -140,7 +140,7 @@ void Main_Loop()
 }
 
 int main()
-{
+{std::cout << std::endl;
     //Main_Loop();
     ///********************************************MAIN**************************
    // manager m1;
@@ -152,7 +152,6 @@ int main()
     //cout << "is_correct = " << m1.reproceedable() << endl;
     ///********************************************MAIN**************************
 }
-
 
     /*matrix A, B;
     A.Load_matrix("C:/Base/Progs/Coeff_analysis/tester/matrix_A.txt");
